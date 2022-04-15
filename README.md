@@ -1,5 +1,9 @@
 # VS Code Tyk extension
 
+#### The project has moved to the official TykTechnologies repository: https://github.com/TykTechnologies/vscode-tyk
+
+<hr/>
+
 [Tyk Schemas](https://marketplace.visualstudio.com/items?itemName=TykTechnologiesLimited.tyk-schemas) provides JSON schemas for various JSON file types used by Tyk products, as a VS Code extension.
 
 ## Running Tyk Schemas
